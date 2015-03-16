@@ -1,0 +1,8 @@
+0000.005 () Opened log file at time: Mon, 16 Mar 2015 12:57:51 +0000 on http://localhost:8888/TG
+0000.005 () UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.60 WP: 4.1.1 PHP: 5.6.2 (Darwin Sams-MacBook-Pro.local 13.4.0 Darwin Kernel Version 13.4.0: Wed Dec 17 19:05:52 PST 2014; root:xnu-2422.115.10~1/RELEASE_X86_64 x86_64) MySQL: 5.5.38 Server: Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.7M | 22M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.005 () Free space on disk containing Updraft's temporary directory: 175175.7 Mb
+0000.005 () Restore job started. Entities to restore: plugins, themes, uploads, others
+0000.037 () Error message: Existing unremoved folders from a previous restore exist (please use the "Delete Old Directories" button to delete them before trying again): /Applications/MAMP/htdocs/TG/wp-content/plugins-old
+0000.038 () Restore failed...
+0000.038 () Error message: Existing unremoved folders from a previous restore exist (please use the "Delete Old Directories" button to delete them before trying again): /Applications/MAMP/htdocs/TG/wp-content/plugins-old
+0000.038 () Restore failed

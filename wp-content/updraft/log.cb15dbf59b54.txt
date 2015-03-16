@@ -1,0 +1,34 @@
+0000.004 () Opened log file at time: Mon, 16 Mar 2015 12:56:46 +0000 on http://localhost:8888/TG
+0000.004 () UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.60 WP: 4.1.1 PHP: 5.6.2 (Darwin Sams-MacBook-Pro.local 13.4.0 Darwin Kernel Version 13.4.0: Wed Dec 17 19:05:52 PST 2014; root:xnu-2422.115.10~1/RELEASE_X86_64 x86_64) MySQL: 5.5.38 Server: Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 21.7M | 22M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.005 () Free space on disk containing Updraft's temporary directory: 175223 Mb
+0000.005 () Restore job started. Entities to restore: plugins, themes, uploads
+0000.035 () Entity: plugins
+0000.035 () restore_backup(backup_file=backup_2015-03-09-2024_Team_Genes_2ded56f95bab-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:47:"/Applications/MAMP/htdocs/TG/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0000.036 () Unpacking backup... (backup_2015-03-09-2024_Team_Genes_2ded56f95bab-plugins.zip, 7 Mb)
+0001.067 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.067 () Moving old data: can potentially use wp_filesystem method / -old
+0001.067 () Moving old data out of the way...
+0001.555 () Top-level entities being moved: akismet, hello.php, index.php, updraftplus
+0001.559 () Moving unpacked backup into place...
+0002.755 () Top-level entities being moved: akismet, backwpup, hello.php, index.php, pronto.php, updraftplus, velvet-blues-update-urls, what-the-file, wordpress-importer
+0002.763 () Cleaning up rubbish...
+0002.764 () Entity: themes
+0002.764 () restore_backup(backup_file=backup_2015-03-09-2024_Team_Genes_2ded56f95bab-themes.zip, type=themes, info=a:2:{s:4:"path";s:46:"/Applications/MAMP/htdocs/TG/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0002.764 () Unpacking backup... (backup_2015-03-09-2024_Team_Genes_2ded56f95bab-themes.zip, 7.5 Mb)
+0003.088 () Moving old data: filesystem method / updraft_dir is potentially possible
+0003.089 () Moving old data: can potentially use wp_filesystem method / -old
+0003.089 () Moving old data out of the way...
+0003.168 () Top-level entities being moved: index.php, twentyfifteen, twentyfourteen, twentythirteen
+0003.170 () Moving unpacked backup into place...
+0003.450 () Top-level entities being moved: .DS_Store, alexandria, index.php, kyan, toko-online, twentyfifteen, twentyfourteen, twentythirteen
+0003.453 () Cleaning up rubbish...
+0003.453 () Entity: uploads
+0003.453 () restore_backup(backup_file=backup_2015-03-09-2024_Team_Genes_2ded56f95bab-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:47:"/Applications/MAMP/htdocs/TG/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=1)
+0003.453 () Unpacking backup... (backup_2015-03-09-2024_Team_Genes_2ded56f95bab-uploads.zip, 2.9 Mb)
+0003.535 () Moving old data: filesystem method / updraft_dir is potentially possible
+0003.535 () Moving old data: can potentially use wp_filesystem method / -old
+0003.535 () Moving old data out of the way...
+0003.537 () Moving unpacked backup into place...
+0003.574 () Cleaning up rubbish...
+0003.576 () Restore successful!
+0003.576 () Restore successful
